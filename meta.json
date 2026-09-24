@@ -1,0 +1,23 @@
+{
+  "repo": "vipre-suite-2026",
+  "product": "Vipre Suite 2026",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "vipre-suite",
+    "vipre-windows",
+    "endpoint-security-desktop",
+    "how-to-install-vipre",
+    "vipre-suite-desktop-package",
+    "vipre-workspace",
+    "vipre-2026",
+    "vipre-suite-pro-tools",
+    "vipre-suite",
+    "zentool-vipre"
+  ],
+  "site": "zentool.art"
+}
